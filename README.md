@@ -26,8 +26,8 @@ JavaScript – Calculator logic and interactivity
 
 🖥️ Screenshot
 
-(<img width="1759" height="824" alt="Screenshot 2026-01-22 155752" src="https://github.com/user-attachments/assets/fe824597-b857-49a8-8e45-fbb3164fce52" />
-)
+<img width="1759" height="824" alt="Screenshot 2026-01-22 155752" src="https://github.com/user-attachments/assets/fe824597-b857-49a8-8e45-fbb3164fce52" />
+
 
 🎯 Learning Outcomes
 
